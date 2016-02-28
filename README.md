@@ -1,0 +1,3 @@
+# Speedometer
+This is an android speedometer app which works pretty much like the digital speedometers we encounter on our motor vehicles. You need to enable GPS on your device to let the speedometer function. It calculates and displays on the device screen the distance travelled in kilometers, speed in km/hr and time in minutes.I hope you like this app and find it useful. Any suggestions or bugs can be reported at vipulbansalkkp@gmail.com. You are welcome to call me at +918427010890 to discuss anything related to android apps as well as new android projects.
+![screenshot_2016-01-22-12-37-54](https://cloud.githubusercontent.com/assets/12936569/13380942/bde3a240-de74-11e5-867b-ad88a27cb555.png)
