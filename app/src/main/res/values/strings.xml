@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="action_settings">Help</string>
+  <string name="banner_ad_unit_id1">ca-app-pub-6702549610673940/8182238718</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-6702549610673940/9658971918</string>
+    <string name="banner_ad_unit_id3">ca-app-pub-6702549610673940/2135705119</string>
+      <string name="help">"This is an android speedometer app which works pretty much like the digital
+        speedometers we encounter on our motor vehicles. You need to enable GPS on your device to let the
+          speedometer function. It calculates and displays on the device screen the distance travelled in kilometers,
+          speed in km/hr
+          and time in minutes.I hope you like this app and find it useful. Any suggestions or bugs can be
+         reported at vipulbansalkkp@gmail.com. You are welcome to call me at +918427010890 to discuss anything
+          related to android apps as well as new android projects."</string>
+</resources>
